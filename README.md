@@ -116,7 +116,6 @@ ReachX-Agent is built on a modular architecture. We welcome contributions to our
 ---
 
 ## 🔗 Connect With the Developer
-Developed by **[Ismail Sajid](https://ismail-sajid-agentic-portfolio.netlify.app/)**.
 *Building the future of Autonomous Sales.*
 
 ⭐ **Star this repo if you're ready to revolutionize your outreach!**
